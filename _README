@@ -1,0 +1,14 @@
+Autor: Matěj Pour, Tomáš Okruhlica
+
+Tento program slouží k automatickému hraní hry "Shakes and Fidget".
+
+Soubory:
+    main.py - hlavní "script", zobrazuje startovní okno s configurací programu
+    bot_engine.py - "řídící jednotka" programu, obsahuje hlavní for loop který spouští jednotlivé procedury
+    decorator_procedure.py - obsahuje rozřazení jednotlivých procedur a ulehčuje spouštění
+    bot_controller.py - obsahuje záladní výstupní funkce jako klikání a mačkání kláves
+    screen_grabber.py - obsahuje základní vstupní funkce jako načtení obrázku, oříznutí a převedení obrázku na text
+    procedures.py - bude obsahovat funkce které použije vícero procedur
+    reslover.py - slouží jako univerzální oprava při nastání nečekaného stavu.
+    positions.json - obsahuje pozice jednotlivých prvků hry převedené na procenta/100 pro responsibilitu 
+    config.json - configurační soubor, do kterého se uloží vstupní konfigurace z main.py

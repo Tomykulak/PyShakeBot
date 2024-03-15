@@ -1,0 +1,10 @@
+pywin32
+PyQt5
+pyautogui
+screeinfo
+pillow
+pytesseract
+colormap
+easydev
+
+je potřeba nemít hd grafiku enabled!!

@@ -1,0 +1,23 @@
+       ---PyShakeBot---
+    by Matěj Pour a Tomáš Okruhlica
+
+ - práci si rozdělíme podle času a zkušeností. Zatím hlavní úkoly: ovládání hry a algoritmy v pozadí 
+
+ - bot na hru Shakes and Fidget 
+ - pomocí scraping - nelze použít nástroje jako Selenium
+ - trackování získaných xp, gold, houbiček, itemů
+ - výber herní strategie (zlato nebo xp) 
+ - automatické podzemý
+ - automatická aréna
+
+
+knihovny (možné nástroje, ještě nevíme jistě že je budeme potřebovat):
+ - pillow
+ - Numpy
+ - PyWin
+ - time + nějaké basic knihovny na práci s časem 
+
+Možná vylepšení?
+ ? pití piv a užívání houbiček 
+ ? přepínání více postav
+ ? základní GUI jinak konzololové ovládání 

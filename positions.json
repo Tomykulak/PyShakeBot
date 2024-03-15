@@ -1,0 +1,173 @@
+{
+    "tavern": {
+        "fight": {
+            "skip_ok_button": {
+                "height": 0.902,
+                "width": 0.609,
+                "color": "#E8C25A"
+            }
+        },
+        "npc": {
+            "orc": {
+                "height": 0.495,
+                "width": 0.484,
+                "color": "#65802C"
+            },
+            "fighter": {
+                "height": 0.4834,
+                "width": 0.799,
+                "color": "#000000"
+            },
+            "gnome": {
+                "height": 0.543,
+                "width": 0.5,
+                "color": "#FFFFFF"
+            },
+            "lady": {
+                "height": 0.533,
+                "width": 0.732,
+                "color": "#239ACE"
+            },
+            "elf": {
+                "height": 0.75,
+                "width": 0.525,
+                "color": "#000000"
+            },
+            "gandalf": {
+                "height": 0.7176,
+                "width": 0.289,
+                "color": "#000000"
+            },
+            "knight": {
+                "height": 0.643,
+                "width": 0.388,
+                "color": "#000000"
+            },
+            "adventurer": {
+                "height": 0.393,
+                "width": 0.736,
+                "color": "#FFFFFF"
+            },
+            "dealer": {
+                "height": 0.5343,
+                "width": 0.6735,
+                "color": "#FFFFFF"
+            },
+            "poor": {
+                "height": 0.587,
+                "width": 0.486,
+                "color": "#FFFFFF"
+            }
+        },
+        "quest_nav": {
+            "0": {
+                "height": 0.339,
+                "width": 0.473,
+                "color": "#000000"
+            },
+            "1": {
+                "height": 0.339,
+                "width": 0.612,
+                "color": "#000000"
+            },
+            "2": {
+                "height": 0.339,
+                "width": 0.755,
+                "color": "#000000"
+            }
+        },
+        "quest": {
+            "gold": [
+                0.455,
+                0.606,
+                0.541,
+                0.648
+            ],
+            "xp": [
+                0.573,
+                0.606,
+                0.658,
+                0.648
+            ],
+            "time": [
+                0.682,
+                0.606,
+                0.729,
+                0.648
+            ]
+        },
+        "accept_quest": {
+            "height": 0.711,
+            "width": 0.618,
+            "color": "#E8C25A"
+        },
+        "tavern_keeper": {},
+        "gambler": {},
+        "watch": {},
+        "toilet": {},
+        "daily_quest": {}
+    },
+    "login": {
+        "import": {
+            "height": 0.712,
+            "width": 0.609,
+            "color": "#E8C25A"
+        },
+        "character": {
+            "height": 0.463,
+            "width": 0.625,
+            "color": "#E8C25A"
+        }
+    },
+    "daily_bonus": {
+        "header": {
+            "text": "DAILY LOGIN BONUS",
+            "frame": [
+                0.536,
+                0.055,
+                0.682,
+                0.090
+            ]
+        },
+        "button": {
+            "height": 0.91,
+            "width": 0.57,
+            "color": "#F0C241"
+        }
+    },
+    "menu": {
+        "tavern": {
+            "width": 0.066,
+            "height": 0.219
+        },
+        "arena": {
+            "width": 0.062,
+            "height": 0.277
+        }
+    },
+    "warnings": {
+        "FULL_INV": {
+            "text": "INVENTORY IS FULL",
+            "frame": [
+                0.533,
+                0.310,
+                0.6875,
+                0.351
+            ]
+        },
+        "LVL_UP": {
+            "text": "LEVEL UP",
+            "frame": [
+                0.562,
+                0.194,
+                0.666,
+                0.232
+            ],
+            "button": {
+                "width": 0.608,
+                "height": 0.856,
+                "color": "#F0C042"
+            }
+        }
+    }
+}
